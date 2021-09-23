@@ -1,0 +1,11 @@
+*.csv
+*.xls
+*.xlsx
+*.code-workspace
+node_modules
+test
+vips-dev-8.8
+*.png
+logs
+keypad
+creds.json
